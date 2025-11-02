@@ -1,6 +1,6 @@
 package com.zhou.pojo;
 
 public class Customer {
-    private String username;
+    private int age;
     private Double price;
 }
